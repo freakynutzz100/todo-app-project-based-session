@@ -11,7 +11,20 @@ Docker Deployed
 
 _________________________________________________________________________________________________________
 
-**Credits:**
+Implementation of REST API via implementing methods like @GetMapping @PostMapping @PutMapping and @DeleteMapping
+
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/7abf8b53-7603-41ef-af0e-826e3b3d13b1" />
+
+_________________________________________________________________________________________________________
+
+MySQL DB implementation:
+
+<img width="847" height="370" alt="image" src="https://github.com/user-attachments/assets/78b1fa89-2af1-4aab-9696-6366e3b0138f" />
+
+_________________________________________________________________________________________________________
+
+
+**Credits:** <br />
 Author : Yog Vasaikar 
 SAP ID : 70612500073
 Contact : yogprashant.vasaikar73@nmims.in
